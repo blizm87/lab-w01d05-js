@@ -1,0 +1,47 @@
+header {
+  text-align:center;
+  color:green;
+  font-size:40px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+body {
+  background: skyblue;
+}
+
+
+
+input.new-todo{
+  margin-left:575px;
+  font-size:32px;
+}
+
+li {
+  text-align:center;
+  font-size:24px;
+  display:block;
+}
+
+ul {
+
+}
+.new-todo{
+
+}
+
+.todos{
+
+}
+
+.todo{
+
+}
+
+.complete{
+  text-decoration: line-through;
+}
+
+.remove {
+
+}
