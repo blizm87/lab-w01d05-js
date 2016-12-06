@@ -1,5 +1,6 @@
 var remListItem = function(){
   this.parentNode.remove();
+  tasksCompleted = document.querySelectorAll('.complete').length;
   taskTotal = document.querySelectorAll('li').length;
   document.querySelector('#counter').textContent= 'Completed ' + tasksCompleted + ' out of ' + taskTotal;
 
