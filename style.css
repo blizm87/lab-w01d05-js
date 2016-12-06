@@ -42,6 +42,11 @@ ul {
   text-decoration: line-through;
 }
 
+#counter{
+  margin-left:640px;
+
+}
+
 .remove {
 
 }
